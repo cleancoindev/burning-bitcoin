@@ -24,7 +24,7 @@
     "lotion": "^0.4.26",
     "material-design-icons-iconfont": "^5.0.1",
     "stylus": "^0.54.7",
-    "stylus-loader": "^3.0.2",
+    "stylus-loader": "^4.0.0",
     "vue": "^2.6.10",
     "vuetify": "^2.1.0"
   },
